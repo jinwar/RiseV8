@@ -1,3 +1,4 @@
 untitled.tex
 Yadong_Gulu_rift_is_one__.tex
 figures/rise_topo/rise_topo.png
+section_Method_and_Data__.tex
