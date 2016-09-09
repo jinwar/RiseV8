@@ -2,3 +2,4 @@ untitled.tex
 Yadong_Gulu_rift_is_one__.tex
 figures/rise_topo/rise_topo.png
 section_Data_Acquisition_and_Method__.tex
+Since_the_signal_to_noise__.tex
